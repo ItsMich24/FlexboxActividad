@@ -43,4 +43,4 @@ Flexbox ofrece una serie de elementos y propiedades para crear diseños flexible
 Aprender a utilizar los elemtnos básicos de **FLEXBOX**
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado: [Clonacion de Google](https://cerulean-cendol-1860e5.netlify.app)
+Aquí puedes visualizar mi proyecto terminado: [Flexbox](https://heroic-centaur-424d8e.netlify.app/)
