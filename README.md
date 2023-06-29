@@ -1,4 +1,4 @@
-# Flexbox actividad creada con HTML5 y CSS desde el Bootcamp de TECNOLOchicas PRO
+# Flexbox actividad creada con HTML5 y CSS desde el bootcamp de TecnoloChicas pro
 
 ## ÍNDICE
 
@@ -26,17 +26,17 @@ Además, Flexbox ofrece un conjunto de propiedades para controlar la alineación
 En este proyecto me enfoque en construir una página básica con elementos de flexbox para aprender su uso.
 Flexbox ofrece una serie de elementos y propiedades para crear diseños flexibles. A continuación, se enumeran los principales elementos de Flexbox y sus usos:
 
-*Contenedor Flex (display: flex): El contenedor flex es el elemento principal que envuelve a los elementos que queremos distribuir y alinear. Al establecer la propiedad display en flex, se activa el modelo de diseño flexbox en el contenedor y sus elementos secundarios se convierten en elementos flexibles.
+* **Contenedor Flex (display: flex)**: El contenedor flex es el elemento principal que envuelve a los elementos que queremos distribuir y alinear. Al establecer la propiedad display en flex, se activa el modelo de diseño flexbox en el contenedor y sus elementos secundarios se convierten en elementos flexibles.
 
-*Elementos Flexibles (flex: value): Los elementos secundarios del contenedor flex se convierten en elementos flexibles. Se pueden aplicar diferentes propiedades de flexibilidad a estos elementos para controlar cómo se distribuyen y ajustan en el contenedor. Algunas propiedades comunes son flex-grow, flex-shrink y flex-basis, que controlan la capacidad de crecimiento, contracción y tamaño inicial del elemento flexible.
+* **Elementos Flexibles (flex: value)**: Los elementos secundarios del contenedor flex se convierten en elementos flexibles. Se pueden aplicar diferentes propiedades de flexibilidad a estos elementos para controlar cómo se distribuyen y ajustan en el contenedor. Algunas propiedades comunes son *flex-grow*, *flex-shrink* y *flex-basis*, que controlan la capacidad de crecimiento, contracción y tamaño inicial del elemento flexible.
 
-*Dirección del Flujo (flex-direction): Esta propiedad define la dirección en la que se colocan los elementos dentro del contenedor flex. Puede ser row (fila), column (columna), row-reverse (fila inversa) o column-reverse (columna inversa). Determinar la dirección de flujo es esencial para organizar el diseño de manera adecuada.
+* **Dirección del Flujo (flex-direction)**: Esta propiedad define la dirección en la que se colocan los elementos dentro del contenedor flex. Puede ser *row (fila)*, *column (columna)*, *row-reverse (fila inversa)* o *column-reverse (columna inversa)*. Determinar la dirección de flujo es esencial para organizar el diseño de manera adecuada.
 
-*Alineación de Elementos (justify-content y align-items): Estas propiedades permiten controlar la alineación de los elementos dentro del contenedor flex. justify-content se utiliza para alinear horizontalmente los elementos a lo largo del eje principal (fila), mientras que align-items se utiliza para alinear verticalmente los elementos a lo largo del eje cruzado (columna).
+* **Alineación de Elementos (justify-content y align-items)**: Estas propiedades permiten controlar la alineación de los elementos dentro del contenedor flex. justify-content se utiliza para alinear horizontalmente los elementos a lo largo del eje principal (fila), mientras que align-items se utiliza para alinear verticalmente los elementos a lo largo del eje cruzado (columna).
 
-*Alineación de Elementos en el Eje Cruzado (align-self): Esta propiedad se aplica a un elemento flexible individual y permite anular la alineación vertical definida por align-items para ese elemento específico. Puede usarse para alinear un elemento de manera diferente al resto dentro del contenedor.
+* **Alineación de Elementos en el Eje Cruzado (align-self)**: Esta propiedad se aplica a un elemento flexible individual y permite anular la alineación vertical definida por align-items para ese elemento específico. Puede usarse para alinear un elemento de manera diferente al resto dentro del contenedor.
 
-*Orden de Visualización (order): La propiedad order permite cambiar el orden en que se visualizan los elementos dentro del contenedor flex. Por defecto, los elementos se muestran en el orden en que aparecen en el código HTML, pero con order se puede reorganizar su posición visual.
+* **Orden de Visualización (order)**: La propiedad order permite cambiar el orden en que se visualizan los elementos dentro del contenedor flex. Por defecto, los elementos se muestran en el orden en que aparecen en el código HTML, pero con order se puede reorganizar su posición visual.
 
 
 ## 3. Objetivo del proyecto
